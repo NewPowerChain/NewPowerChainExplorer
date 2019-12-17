@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="newpowerbrowser:war">
+    <output-path>$PROJECT_DIR$/newpowerbrowser/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>newpowerbrowser</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="newpower-browser-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="newpowerbrowser:war exploded" />
+    </root>
+  </artifact>
+</component>

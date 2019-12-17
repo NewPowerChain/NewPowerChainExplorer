@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="newpower-data" />
+        <module name="newpower-browser" />
+        <module name="eurekaservice" />
+        <module name="newpower-eurekaservice" />
+        <module name="newpowerdata" />
+        <module name="newpowerbrowser" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="commonservice" target="1.8" />
+      <module name="eurekaservice" target="1.8" />
+      <module name="newpower-browser" target="1.8" />
+      <module name="newpower-data" target="1.8" />
+      <module name="newpower-eurekaservice" target="1.8" />
+      <module name="newpowerbrowser" target="1.8" />
+      <module name="newpowerdata" target="1.8" />
+      <module name="NewPowerMicroService" target="1.8" />
+      <module name="testmodule" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="NewPowerMicroService" options="-parameters" />
+      <module name="commonservice" options="-parameters" />
+      <module name="eurekaservice" options="-parameters" />
+      <module name="newpower-browser" options="-parameters" />
+      <module name="newpower-data" options="-parameters" />
+      <module name="newpower-eurekaservice" options="-parameters" />
+      <module name="newpowerbrowser" options="-parameters" />
+      <module name="newpowerdata" options="-parameters" />
+      <module name="testmodule" options="-parameters" />
+    </option>
+  </component>
+</project>

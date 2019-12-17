@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="commonservice:war">
+    <output-path>$PROJECT_DIR$/commonservice/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>commonservice</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="newpower-commonservice-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="commonservice:war exploded" />
+    </root>
+  </artifact>
+</component>

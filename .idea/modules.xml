@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NewPowerMicroService.iml" filepath="$PROJECT_DIR$/NewPowerMicroService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaservice/eurekaservice.iml" filepath="$PROJECT_DIR$/eurekaservice/eurekaservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newpowerbrowser/newpower-browser.iml" filepath="$PROJECT_DIR$/newpowerbrowser/newpower-browser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newpowerdata/newpower-data.iml" filepath="$PROJECT_DIR$/newpowerdata/newpower-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaservice/newpower-eurekaservice.iml" filepath="$PROJECT_DIR$/eurekaservice/newpower-eurekaservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newpowerbrowser/newpowerbrowser.iml" filepath="$PROJECT_DIR$/newpowerbrowser/newpowerbrowser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newpowerdata/newpowerdata.iml" filepath="$PROJECT_DIR$/newpowerdata/newpowerdata.iml" />
+    </modules>
+  </component>
+</project>

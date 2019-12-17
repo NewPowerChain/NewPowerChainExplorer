@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="newpower-eurekaservice:war">
+    <output-path>$PROJECT_DIR$/eurekaservice/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>newpower-eurekaservice</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="newpower-eurekaservice-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="newpower-eurekaservice:war exploded" />
+    </root>
+  </artifact>
+</component>
