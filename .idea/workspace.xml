@@ -4,9 +4,11 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6495cfd-5860-43e9-96dd-0afd5730a5f8" name="Default Changelist" comment="commit newpowerchain browser">
+    <list default="true" id="e6495cfd-5860-43e9-96dd-0afd5730a5f8" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newpowerbrowser/d:/index/com.searchcondition.entity.SearchCondition/segments_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newpowerbrowser/d:/index/com.searchcondition.entity.SearchCondition/write.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -361,21 +363,7 @@
       <workItem from="1576482986259" duration="6000" />
       <workItem from="1576562513817" duration="1647000" />
       <workItem from="1576565040507" duration="5677000" />
-      <workItem from="1576570885818" duration="2213000" />
-    </task>
-    <task id="LOCAL-00150" summary="提交项目">
-      <created>1575355619089</created>
-      <option name="number" value="00150" />
-      <option name="presentableId" value="LOCAL-00150" />
-      <option name="project" value="LOCAL" />
-      <updated>1575355619090</updated>
-    </task>
-    <task id="LOCAL-00151" summary="提交注释">
-      <created>1575355874680</created>
-      <option name="number" value="00151" />
-      <option name="presentableId" value="LOCAL-00151" />
-      <option name="project" value="LOCAL" />
-      <updated>1575355874680</updated>
+      <workItem from="1576570885818" duration="2482000" />
     </task>
     <task id="LOCAL-00152" summary="开放抓取数据">
       <created>1575356016667</created>
@@ -706,7 +694,21 @@
       <option name="project" value="LOCAL" />
       <updated>1576572613820</updated>
     </task>
-    <option name="localTasksCounter" value="199" />
+    <task id="LOCAL-00199" summary="commit newpowerchain browser">
+      <created>1576573216549</created>
+      <option name="number" value="00199" />
+      <option name="presentableId" value="LOCAL-00199" />
+      <option name="project" value="LOCAL" />
+      <updated>1576573216549</updated>
+    </task>
+    <task id="LOCAL-00200" summary="delete d:">
+      <created>1576573418081</created>
+      <option name="number" value="00200" />
+      <option name="presentableId" value="LOCAL-00200" />
+      <option name="project" value="LOCAL" />
+      <updated>1576573418081</updated>
+    </task>
+    <option name="localTasksCounter" value="201" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -739,7 +741,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="修改数据库 添加上链时间" />
     <MESSAGE value="修改上链时间" />
     <MESSAGE value="转换不同类型的model" />
     <MESSAGE value="没有接受者不返回" />
@@ -764,7 +765,8 @@
     <MESSAGE value="LISENCE and README.md" />
     <MESSAGE value="修改 README.md" />
     <MESSAGE value="commit newpowerchain browser" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit newpowerchain browser" />
+    <MESSAGE value="delete d:" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete d:" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="128" key="#Notifications" timestamp="1575251269393">
@@ -787,10 +789,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="476" y="327" width="487" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.877@0.23.1440.877" timestamp="1575343083994" />
-    <state x="219" y="62" key="CommitChangelistDialog2" timestamp="1576573216267">
+    <state x="219" y="62" key="CommitChangelistDialog2" timestamp="1576573417984">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="219" y="62" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1576573216267" />
+    <state x="219" y="62" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1576573417984" />
     <state x="143" y="99" width="1152" height="701" key="DiffContextDialog" timestamp="1576572424552">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -871,10 +873,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="100" y="123" width="1240" height="677" key="VCS.FileHistoryDialog/0.23.1440.877@0.23.1440.877" timestamp="1575083353672" />
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1576573253062">
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2" timestamp="1576573419446">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1576573253062" />
+    <state x="320" y="203" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1576573419446" />
     <state x="503" y="250" key="chooseDestDirectoryDialog" timestamp="1575343083894">
       <screen x="0" y="23" width="1440" height="877" />
     </state>

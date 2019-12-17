@@ -33,7 +33,7 @@ public class NewpowerbrowserApplication {
 ### Version introduction:  
 This version is based on Hyperledger Fabric implements the query and browse function of block, transaction, node, asset information.
 
-### Network Station:  
+### Website:  
 <https://scan.newpowerchain.com>
 
 
